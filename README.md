@@ -1,2 +1,2 @@
 link of this site is
-git push -u origin main
+https://mystifying-shaw-ac0cfa.netlify.app/
