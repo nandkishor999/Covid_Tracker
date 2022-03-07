@@ -1,0 +1,54 @@
+body{
+    background-image: url(/src/Components/bg\ \(2\).jpg);
+    /* background-size: 100% 100%; */
+}
+.card{
+    height: 200px;
+  
+    width: 300px;
+    border: 3px  solid yellow;
+    border-radius: 10%;
+    box-shadow: 6px  8px 9px rgb(219, 113, 210);
+   background-color: rgb(11, 235, 67);
+display: flex;
+
+justify-content: space-around; 
+box-sizing: border-box;
+margin: 10px 10px;
+padding: 12px 12px;
+background-image: url(/src/Components/card\ \(1\).jpg);
+background-size: 100% 100%;
+}
+
+   
+ul{
+    text-decoration: none;
+    display: flex;
+    list-style: none;
+    flex-wrap: wrap;
+    
+    justify-content: space-between;
+    
+}
+.card_name{
+    font-weight: bold;
+    font-size: 1.7rem;
+    color: rgb(133, 226, 11);
+   
+font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 2px 2px  rgb(233, 82, 82);
+}
+.datank{
+    font-size: 2rem;
+    font-weight: bold;
+    color: rgb(183, 241, 25);
+    text-shadow: 2px 2px rgb(240, 127, 71);
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(233, 12, 96);
+    text-decoration: underline;
+    text-shadow: 2px 2px rgb(14, 13, 13);
+}
